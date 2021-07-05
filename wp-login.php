@@ -5,7 +5,7 @@
 	<title>Đăng nhập &lsaquo; Clover &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://minhtien2412.github.io/minhtien/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
+<!--n2css--><link rel="stylesheet" id="dashicons-css" href="https://minhtien2412.github.io/minhtien/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://minhtien2412.github.io/minhtien/wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="forms-css" href="https://minhtien2412.github.io/minhtien/wp-admin/css/forms.min.css?ver=5.7.2" media="all">
 <link rel="stylesheet" id="l10n-css" href="https://minhtien2412.github.io/minhtien/wp-admin/css/l10n.min.css?ver=5.7.2" media="all">
