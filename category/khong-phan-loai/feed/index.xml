@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; Clover</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhtien2412.github.io/minhtien</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 04 Jul 2021 18:19:27 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://minhtien2412.github.io/minhtien/khong-phan-loai/chao-moi-nguoi/</link>
+					<comments>https://minhtien2412.github.io/minhtien/khong-phan-loai/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[minhtien]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 18:19:27 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://minhtien2412.github.io/minhtien/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://minhtien2412.github.io/minhtien/khong-phan-loai/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>COFFEE CLOVER</title>
+		<link>https://minhtien2412.github.io/minhtien/khong-phan-loai/coffee-clover/</link>
+					<comments>https://minhtien2412.github.io/minhtien/khong-phan-loai/coffee-clover/#respond</comments>
+		
+		<dc:creator><![CDATA[minhtien]]></dc:creator>
+		<pubDate>Tue, 22 Jun 2021 01:33:44 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://minhtien2412.github.io/minhtien/?p=284</guid>
+
+					<description><![CDATA[Việt Nam tự hào sở hữu một di sản văn hóa cà phê giàu có, và &#8216;Phin&#8217; chính là linh hồn, là nét văn hóa thưởng thức cà phê đã ăn sâu vào tiềm thức biết bao người Việt. Cà phê rang xay được chiết xuất chậm rãi từng giọt một thông qua dụng cụ lọc bằng &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Việt Nam tự hào sở hữu một di sản văn hóa cà phê giàu có, và &#8216;Phin&#8217; chính là linh hồn, là nét văn hóa thưởng thức cà phê đã ăn sâu vào tiềm thức biết bao người Việt. Cà phê rang xay được chiết xuất chậm rãi từng giọt một thông qua dụng cụ lọc bằng kim loại có tên là &#8216;Phin&#8217;, cũng giống như thể hiện sự sâu sắc trong từng suy nghĩ và chân thành trong những mối quan hệ hiện hữu.</p>
+
+
+
+<h2 class="has-text-align-center">Chỉ bán mang đi</h2>
+
+
+
+<p class="has-drop-cap">Dịch covot đang hoành hành chúng ta nên mua mang để đảm bảo sức khỏe cho bản thân cộng đồng.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://minhtien2412.github.io/minhtien/khong-phan-loai/coffee-clover/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
